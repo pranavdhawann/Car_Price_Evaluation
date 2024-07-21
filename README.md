@@ -1,4 +1,4 @@
-# Car Evaluation Project
+# Car Price Evaluation Project
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,7 +12,7 @@
 - [Conclusion](#conclusion)
 
 ## Overview
-The Car Evaluation Project is designed to analyze and predict the quality of cars based on various attributes. This project uses machine learning techniques to classify cars into different categories based on their buying, maintenance cost, doors, persons capacity, lug boot size, safety, and overall class.
+The Car Price Evaluation Project is designed to analyze and predict the quality of cars based on various attributes. This project uses machine learning techniques to classify cars into different categories based on their buying, maintenance cost, doors, persons capacity, lug boot size, safety, and overall class.
 
 ## Dataset
 The dataset used for this project is the Car Evaluation dataset, which contains 1728 entries with 7 attributes:
